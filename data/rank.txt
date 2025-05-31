@@ -1,0 +1,3 @@
+aj 10
+turing 9
+gg 1
